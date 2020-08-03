@@ -2,7 +2,7 @@
 
 ## Description
 
-A web app 
+A web app which uses the Drag and Drop API to put a sortable list in order.
 
 ## Installation
 
